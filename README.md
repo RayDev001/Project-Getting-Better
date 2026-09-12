@@ -1,2 +1,2 @@
 # Project-Getting-Better
-Skill issues getting solved.
+A journey of a thousand miles starts with a single step.
