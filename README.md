@@ -1,2 +1,2 @@
 # Project-Getting-Better
-Skill issues getting solved.
+I am learning Python by completing as many HackerRank exercises as I can until I get a job.
