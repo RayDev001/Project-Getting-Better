@@ -19,7 +19,7 @@ The primary goal of this project is to become a more competent, efficient, and w
 
 ## 🛠️ Languages & Tools
 
-- **Primary Languages:** Python
+- **Primary Language:** Python
 - **Environment:** macOS | LazyVim | LazyGit
 - **Platform:** HackerRank
 
